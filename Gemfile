@@ -16,6 +16,9 @@ gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 5.0'
 
+gem 'carrierwave'
+gem 'rmagick'
+
 group :production do
   gem 'pg'
 end
