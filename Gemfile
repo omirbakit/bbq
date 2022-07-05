@@ -18,6 +18,7 @@ gem 'webpacker', '~> 5.0'
 
 gem 'carrierwave'
 gem 'rmagick'
+gem 'fog-aws'
 
 group :production do
   gem 'pg'
